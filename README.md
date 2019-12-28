@@ -1,0 +1,2 @@
+# mathematical_statistics
+数理统计的一些作业的小计算器
